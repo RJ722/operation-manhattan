@@ -5,54 +5,7 @@
 
 * GOALS
   
-
-
 * PLAN
-** April     18, 2020 - April     30, 2020 (13 days)
-   :PROPERTIES:
-   :wpd-RJ722: 2
-   :END:
-*** TODO Read "The Soul of a New machine" [0/17]
-    :PROPERTIES:
-    :ESTIMATED: 16
-    :ACTUAL:
-    :OWNER: RJ722
-    :ID: READ.1587148252
-    :TASKID: READ.1587148252
-    :END:
-    - [ ] Prologue: A Good Man in a Storm (20m)
-    - [ ] How to make a lot of money? (60m)
-    - [ ] The Wars (60m)
-    - [ ] Building a Team (90m)
-    - [ ] Wallach's Golden Moment (45m)
-    - [ ] Midnight Programmer (50m)
-    - [ ] Flying Upside Down (50m)
-    - [ ] LA Machine (70m)
-    - [ ] The Wonderful Micromachines (60m)
-    - [ ] A Workshop (40m)
-    - [ ] The case of a missing NAND Gate (70m)
-    - [ ] Shorter than a Season (30m)
-    - [ ] Pinball (40m)
-    - [ ] Going to the fair (60m)
-    - [ ] The Last Crunch (60m)
-    - [ ] Canards (30m)
-    - [ ] Dinosaurs (30m)
-*** TODO Read "Extreme Programming Pocket Guide" [0/7]
-   :PROPERTIES:
-   :ESTIMATED: 6
-   :ACTUAL:
-   :OWNER: RJ722
-   :ID: READ.1587146047
-   :TASKID: READ.1587146047
-   :END:
-    - [ ] Part 1 Why XP?                        (35m)
-    - [ ] Part 2: Extreme Programming Practices (90m)
-    - [ ] Part 3: XP Events                     (40m)
-    - [ ] Part 4: XP Artifacts                  (30m)
-    - [ ] Part 5: Roles in Extreme Programming  (35m)
-    - [ ] Part 6: Coding, XP Style              (50m)
-    - [ ] Part 7: Adpoting XP                   (30m)
-
 ** May       01, 2020 - May       16, 2020 (16 days)
 ** May       17, 2020 - May       29, 2020 (13 days)
 ** May       30, 2020 - June      16, 2020 (17 days)
