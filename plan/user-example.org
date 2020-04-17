@@ -1,0 +1,59 @@
+#+TITLE: Plan
+#+AUTHOR: <FULL NAME>
+#+EMAIL: <E@MA.IL>
+#+TAGS: READ
+
+* GOALS
+
+** TODO Read "The Go Programming Language" [0/6]
+   :PROPERTIES:
+   :ESTIMATED: 35
+   :ACTUAL:
+   :OWNER: RJ722
+   :ID: READ.1587145972
+   :TASKID: READ.1587145972
+   :END:
+   - [ ] Chapter  1: Tutorial (120m)
+   - [ ] Chapter  2: Program Structure ( 90m)
+   - [ ] Chapter  3: Basic Data Types (150m)
+   - [ ] Chapter  4: Composite Types (160m)
+   - [ ] Chapter  5: Functions (200m)
+   - [ ] Chapter  6: Methods (150m)
+   - [ ] Chapter  7: Interfaces (240m)
+   - [ ] Chapter  8: Goroutines and Channels (180m)
+   - [ ] Chapter  9: Concurrency with Shared Variables (160m)
+   - [ ] Chapter 10: Packages and the Go Tool (90m)
+   - [ ] Chapter 11: Testing (150m)
+   - [ ] Chapter 12: Reflection (180m)
+   - [ ] Chapter 13: Low Level Programming (120m)
+
+** TODO Read "Extreme Programming Pocket Guide" [0/2]
+   :PROPERTIES:
+   :ESTIMATED: 6
+   :ACTUAL:
+   :OWNER: RJ722
+   :ID: READ.1587146047
+   :TASKID: READ.1587146047
+   :END:
+   - [ ] Part 1 Why XP?                        (35m)
+   - [ ] Part 2: Extreme Programming Practices (90m)
+   - [ ] Part 3: XP Events                     (40m)
+   - [ ] Part 4: XP Artifacts                  (30m)
+   - [ ] Part 5: Roles in Extreme Programming  (35m)
+   - [ ] Part 6: Coding, XP Style              (50m)
+   - [ ] Part 7: Adpoting XP                   (30m)
+
+
+* PLAN
+
+** April     18, 2020 - April     30, 2020 (13 days)
+** May       01, 2020 - May       16, 2020 (16 days)
+** May       17, 2020 - May       29, 2020 (13 days)
+** May       30, 2020 - June      16, 2020 (17 days)
+** June      17, 2020 - June      30, 2020 (14 days)
+** July       1, 2020 - July      16, 2020 (16 days)
+** July      17, 2020 - August     2, 2020 (16 days)
+** August     3, 2020 - August    18, 2020 (16 days)
+** August    19, 2020 - September  2, 2020 (14 days)
+
+ 
