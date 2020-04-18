@@ -1,0 +1,136 @@
+#+TITLE: April 18-April 30, 2020 (13 days)
+#+AUTHOR: Rahul Jha
+#+EMAIL: rj722@protonmail.com
+#+PROPERTY: Effort_ALL 0 0:05 0:10 0:30 1:00 2:00 3:00 4:00
+#+TODO: TODO IN_PROGRESS | DONE DEFERRED
+#+COLUMNS: %35ITEM %TASKID %OWNER %3PRIORITY %TODO %5ESTIMATED{+} %3ACTUAL{+}
+* REPORTS
+** SCRUM BOARD
+#+BEGIN: block-update-board
+| TODO                                            | IN_PROGRESS | DONE | DEFERRED |
+|-------------------------------------------------+-------------+------+----------|
+| READ.1587148252. Read "The Soul of a New machin |             |      |          |
+| READ.1587146047. Read "Extreme Programming Pock |             |      |          |
+#+END:
+** DEVELOPER SUMMARY
+#+BEGIN: block-update-summary
+| NAME  | ESTIMATED | ACTUAL | DONE | REMAINING | PENCILS DOWN | PROGRESS   |
+|-------+-----------+--------+------+-----------+--------------+------------|
+| Rj722 |        22 |      0 |    0 |        22 |   2020-05-04 | ---------- |
+#+END:
+** BURNDOWN CHART
+#+BEGIN: block-update-graph
+:                                                                                                    
+:                                                 Burndown                                           
+:                                                                                                    
+:        25 +------------------------------------------------------------------------------------+   
+:           |      +             +             +              +             +             +      |   
+:           |                                                                     actual ******* |   
+:           |**                                                                    ideal ....... |   
+:           |  **                                                                                |   
+:        20 |-+  **                                                                            +-|   
+:           |                                                                                    |   
+:           |      ****                                                                          |   
+:           |          **                                                                        |   
+:        15 |-+          *                                                                     +-|   
+:           |             ********************                                                   |   
+:           |                                 *                                                  |   
+:           |                                  ******                                            |   
+:           |                                        **                                          |   
+:        10 |-+                                        ******                                  +-|   
+:           |                                                *                                   |   
+:           |                                                 ****                               |   
+:           |                                                     **                             |   
+:         5 |-+                                                     *                          +-|   
+:           |                                                        ******                      |   
+:           |                                                              *                     |   
+:           |                                                               ******************** |   
+:           |      +             +             +              +             +             +     *|   
+:         0 +------------------------------------------------------------------------------------+   
+:                  2             4             6              8             10            12         
+:                                                    day                                             
+:                                                                                                    
+:
+#+END:
+** BURNDOWN LIST
+#+PLOT: title:"Burndown" ind:1 deps:(3 4) set:"term dumb" set:"xtics scale 0.5" set:"ytics scale 0.5" file:"burndown.plt" set:"xrange [0:17]"
+#+BEGIN: block-update-burndown
+| DAY |       DATE | ACTUAL | IDEAL | TASKS COMPLETED |
+|-----+------------+--------+-------+-----------------|
+|   1 | 2020-04-18 |     22 |    20 |                 |
+|   2 | 2020-04-19 |        |    19 |                 |
+|   3 | 2020-04-20 |        |    17 |                 |
+|   4 | 2020-04-21 |        |    15 |                 |
+|   5 | 2020-04-22 |        |    14 |                 |
+|   6 | 2020-04-23 |        |    12 |                 |
+|   7 | 2020-04-24 |        |    10 |                 |
+|   8 | 2020-04-25 |        |     8 |                 |
+|   9 | 2020-04-26 |        |     7 |                 |
+|  10 | 2020-04-27 |        |     5 |                 |
+|  11 | 2020-04-28 |        |     3 |                 |
+|  12 | 2020-04-29 |        |     2 |                 |
+|  13 | 2020-04-30 |        |     0 |                 |
+#+END:
+** TASK LIST
+#+BEGIN: columnview :hlines 2 :maxlevel 5 :id "TASKS"
+| ITEM                                    | TASKID          | OWNER | PRIORITY | TODO | ESTIMATED | ACTUAL |
+|-----------------------------------------+-----------------+-------+----------+------+-----------+--------|
+| TASKS                                   |                 |       | B        |      |        22 |        |
+|-----------------------------------------+-----------------+-------+----------+------+-----------+--------|
+| sourya                                  |                 |       | B        |      |           |        |
+|-----------------------------------------+-----------------+-------+----------+------+-----------+--------|
+| RJ722                                   |                 |       | B        |      |        22 |        |
+| Read "The Soul of a New machine"        | READ.1587148252 | RJ722 | B        | TODO |        16 |        |
+| Read "Extreme Programming Pocket Guide" | READ.1587146047 | RJ722 | B        | TODO |         6 |        |
+#+END:
+
+
+* TASKS
+  :PROPERTIES:
+  :ID:       TASKS
+  :SPRINTLENGTH: 13
+  :SPRINTSTART: <2020-04-18 Sat> 
+  :wpd-RJ722: 2
+  :END:
+** sourya
+** RJ722
+*** TODO Read "The Soul of a New machine" [0/17]
+    :PROPERTIES:
+    :ESTIMATED: 16
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: READ.1587148252
+    :TASKID: READ.1587148252
+    :END:
+    - [ ] Prologue: A Good Man in a Storm (20m)
+    - [ ] How to make a lot of money? (60m)
+    - [ ] The Wars (60m)
+    - [ ] Building a Team (90m)
+    - [ ] Wallach's Golden Moment (45m)
+    - [ ] Midnight Programmer (50m)
+    - [ ] Flying Upside Down (50m)
+    - [ ] LA Machine (70m)
+    - [ ] The Wonderful Micromachines (60m)
+    - [ ] A Workshop (40m)
+    - [ ] The case of a missing NAND Gate (70m)
+    - [ ] Shorter than a Season (30m)
+    - [ ] Pinball (40m)
+    - [ ] Going to the fair (60m)
+    - [ ] The Last Crunch (60m)
+    - [ ] Canards (30m)
+    - [ ] Dinosaurs (30m)
+*** TODO Read "Extreme Programming Pocket Guide" [0/7]
+   :PROPERTIES:
+   :ESTIMATED: 6
+   :ACTUAL:
+   :OWNER: RJ722
+   :ID: READ.1587146047
+   :TASKID: READ.1587146047
+   :END:
+    - [ ] Part 1 Why XP?                        (35m)
+    - [ ] Part 2: Extreme Programming Practices (90m)
+    - [ ] Part 3: XP Events                     (40m)
+    - [ ] Part 4: XP Artifacts                  (30m)
+    - [ ] Part 5: Roles in Extreme Programming  (35m)
+    - [ ] Part 6: Coding, XP Style              (50m)
+    - [ ] Part 7: Adpoting XP                   (30m)
