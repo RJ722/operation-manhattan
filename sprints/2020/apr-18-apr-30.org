@@ -94,25 +94,34 @@
   :END:
 ** sourya
 ** RJ722
-*** IN_PROGRESS Read "The Soul of a New machine" [2/17]
+*** IN_PROGRESS Read "The Soul of a New machine" [5/17]
     :PROPERTIES:
     :ESTIMATED: 16
-    :ACTUAL:   0.58
+    :ACTUAL:   3.42
     :OWNER: RJ722
     :ID: READ.1587148252
     :TASKID: READ.1587148252
     :END:
     :LOGBOOK:
+    --- Chapter 4 ---
+    CLOCK: [2020-04-19 Sun 15:12]--[2020-04-19 Sun 15:21] =>  0:09
+    CLOCK: [2020-04-19 Sun 14:37]--[2020-04-19 Sun 15:06] =>  0:29
+    --- Chapter 3 ---
+    CLOCK: [2020-04-19 Sun 13:58]--[2020-04-19 Sun 14:35] =>  0:37
+    --- Chapter 2 ---
+    CLOCK: [2020-04-19 Sun 13:31]--[2020-04-19 Sun 13:58] =>  0:27
     CLOCK: [2020-04-19 Sun 10:28]--[2020-04-19 Sun 10:53] =>  0:25
     --- Chapter 1 ---
     CLOCK: [2020-04-19 Sun 10:05]--[2020-04-19 Sun 10:28] =>  0:23
     CLOCK: [2020-04-19 Sun 02:55]--[2020-04-19 Sun 03:30] =>  0:35
+    --- Prologue ---
+    CLOCK: [2020-04-17 Fri 15:22]--[2020-04-17 Sun 15:42] =>  0:20
     :END:
     - [X] Prologue: A Good Man in a Storm (20m)
     - [X] How to make a lot of money? (60m)
-    - [ ] The Wars (60m)
-    - [ ] Building a Team (90m)
-    - [ ] Wallach's Golden Moment (45m)
+    - [X] The Wars (60m)
+    - [X] Building a Team (90m)
+    - [X] Wallach's Golden Moment (45m)
     - [ ] Midnight Programmer (50m)
     - [ ] Flying Upside Down (50m)
     - [ ] LA Machine (70m)
