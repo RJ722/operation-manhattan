@@ -94,16 +94,22 @@
   :END:
 ** sourya
 ** RJ722
-*** TODO Read "The Soul of a New machine" [0/17]
+*** IN_PROGRESS Read "The Soul of a New machine" [2/17]
     :PROPERTIES:
     :ESTIMATED: 16
-    :ACTUAL:
+    :ACTUAL:   0.58
     :OWNER: RJ722
     :ID: READ.1587148252
     :TASKID: READ.1587148252
     :END:
-    - [ ] Prologue: A Good Man in a Storm (20m)
-    - [ ] How to make a lot of money? (60m)
+    :LOGBOOK:
+    CLOCK: [2020-04-19 Sun 10:28]--[2020-04-19 Sun 10:53] =>  0:25
+    --- Chapter 1 ---
+    CLOCK: [2020-04-19 Sun 10:05]--[2020-04-19 Sun 10:28] =>  0:23
+    CLOCK: [2020-04-19 Sun 02:55]--[2020-04-19 Sun 03:30] =>  0:35
+    :END:
+    - [X] Prologue: A Good Man in a Storm (20m)
+    - [X] How to make a lot of money? (60m)
     - [ ] The Wars (60m)
     - [ ] Building a Team (90m)
     - [ ] Wallach's Golden Moment (45m)
