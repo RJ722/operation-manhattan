@@ -91,8 +91,30 @@
   :SPRINTLENGTH: 13
   :SPRINTSTART: <2020-04-18 Sat> 
   :wpd-RJ722: 2
+  :wpd-sourya: 3
   :END:
 ** sourya
+*** IN_PROGRESS Read "Crafting Interpreters" [0/10]
+    :PROPERTIES:
+    :ESTIMATED: 30
+    :ACTUAL:
+    :OWNER: sourya
+    :ID: READ.1587227996
+    :TASKID: READ.1587227996
+    :END:
+    :LOGBOOK:
+    :END:
+    - [ ] Chapter  4  : Scanning               (180m)
+    - [ ] Chapter  5  : Representing code      (180m)
+    - [ ] Chapter  6  : Parsing expressions    (180m)
+    - [ ] Chapter  7  : Evaluating expressions (180m)
+    - [ ] Chapter  8  : Statements and state   (180m)
+    - [ ] Chapter  9  : Control flow           (180m)
+    - [ ] Chapter  10 : Functions              (180m)
+    - [ ] Chapter  11 : Resolving and binding  (180m)
+    - [ ] Chapter  12 : Classes                (180m)
+    - [ ] Chapter  13 : Inheritance            (180m)
+
 ** RJ722
 *** IN_PROGRESS Read "The Soul of a New machine" [8/17]
     :PROPERTIES:
