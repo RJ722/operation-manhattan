@@ -18,10 +18,6 @@
    - [ ] Chapter  17 : Compiling expressions  (180m)
  
 * PLAN
-** April     18, 2020 - April     30, 2020 (13 days)
-   :PROPERTIES:
-   :wpd-sourya: 3
-   :END:
 ** May       01, 2020 - May       16, 2020 (16 days)
 ** May       17, 2020 - May       29, 2020 (13 days)
 ** May       30, 2020 - June      16, 2020 (17 days)
