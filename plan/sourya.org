@@ -1,0 +1,34 @@
+#+TITLE: Plan
+#+AUTHOR: sourya
+#+EMAIL: souryavatsyayan@gmail.com
+#+TAGS: READ
+
+* GOALS
+** Read "Crafting Interpreters" [0/30]
+   :PROPERTIES:
+   :ESTIMATED: 100
+   :ACTUAL:
+   :OWNER: sourya
+   :ID: READ.1587227996
+   :TASKID: READ.1587227996
+   :END:
+   - [ ] Chapter  14 : Chunks of Bytecode     (180m)
+   - [ ] Chapter  15 : A virtual machine      (180m)
+   - [ ] Chapter  16 : Scanning on demand     (180m)
+   - [ ] Chapter  17 : Compiling expressions  (180m)
+ 
+* PLAN
+** April     18, 2020 - April     30, 2020 (13 days)
+   :PROPERTIES:
+   :wpd-sourya: 3
+   :END:
+** May       01, 2020 - May       16, 2020 (16 days)
+** May       17, 2020 - May       29, 2020 (13 days)
+** May       30, 2020 - June      16, 2020 (17 days)
+** June      17, 2020 - June      30, 2020 (14 days)
+** July       1, 2020 - July      16, 2020 (16 days)
+** July      17, 2020 - August     2, 2020 (16 days)
+** August     3, 2020 - August    18, 2020 (16 days)
+** August    19, 2020 - September  2, 2020 (14 days)
+
+ 
