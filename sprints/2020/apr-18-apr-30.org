@@ -116,35 +116,54 @@
     - [ ] Chapter  13 : Inheritance            (180m)
 
 ** RJ722
-*** IN_PROGRESS Read "The Soul of a New machine" [8/17]
+*** DONE Read "The Soul of a New machine" [17/17]
+    CLOSED: [2020-04-26 Sun 05:10]
     :PROPERTIES:
     :ESTIMATED: 16
-    :ACTUAL:   6.07
+    :ACTUAL:   10.22
     :OWNER: RJ722
     :ID: READ.1587148252
     :TASKID: READ.1587148252
     :END:
     :LOGBOOK:
-    --- Chapter 7 ---
+    --- Chapter 15 ---
+    CLOCK: [2020-04-26 Sun 04:42]--[2020-04-26 Sun 05:05] =>  0:23
+    --- Chapter 14 ---
+    CLOCK: [2020-04-26 Sun 04:18]--[2020-04-26 Sun 04:38] =>  0:20
+    --- Chapter 13 ---
+    CLOCK: [2020-04-26 Sun 03:45]--[2020-04-26 Sun 04:18] =>  0:33
+    --- Chapter 12 ---
+    CLOCK: [2020-04-26 Sun 03:08]--[2020-04-26 Sun 03:45] =>  0:37
+    --- Chapter 11 ---
+    CLOCK: [2020-04-26 Sun 02:25]--[2020-04-26 Sun 02:45] =>  0:20
+    --- Chapter 10 ---
+    CLOCK: [2020-04-25 Sat 02:45]--[2020-04-25 Sat 03:35] =>  0:50
+    --- Chapter  9 ---
+    CLOCK: [2020-04-25 Sat 02:21]--[2020-04-25 Sat 02:45] =>  0:24
+    CLOCK: [2020-04-23 Fri 01:58]--[2020-04-23 Fri 02:05] =>  0:08
+    --- Chapter  8 ---
+    CLOCK: [2020-04-23 Fri 01:53]--[2020-04-23 Fri 01:58] =>  0:05
+    CLOCK: [2020-04-22 Wed 10:16]--[2020-04-22 Wed 10:46] =>  0:30
+    --- Chapter  7 ---
     CLOCK: [2020-04-21 Tue 10:46]--[2020-04-21 Tue 11:37] =>  0:51
-    --- Chapter 6 ---
+    --- Chapter  6 ---
     CLOCK: [2020-04-21 Tue 09:58]--[2020-04-21 Tue 10:39] =>  0:41
-    --- Chapter 5 ---
+    --- Chapter  5 ---
     CLOCK: [2020-04-21 Tue 01:54]--[2020-04-21 Tue 02:46] =>  0:52
     CLOCK: [2020-04-21 Tue 00:08]--[2020-04-21 Tue 00:16] =>  0:08
     CLOCK: [2020-04-20 Mon 23:57]--[2020-04-21 Tue 00:04] =>  0:07
-    --- Chapter 4 ---
+    --- Chapter  4 ---
     CLOCK: [2020-04-19 Sun 15:12]--[2020-04-19 Sun 15:21] =>  0:09
     CLOCK: [2020-04-19 Sun 14:37]--[2020-04-19 Sun 15:06] =>  0:29
-    --- Chapter 3 ---
+    --- Chapter  3 ---
     CLOCK: [2020-04-19 Sun 13:58]--[2020-04-19 Sun 14:35] =>  0:37
-    --- Chapter 2 ---
+    --- Chapter  2 ---
     CLOCK: [2020-04-19 Sun 13:31]--[2020-04-19 Sun 13:58] =>  0:27
     CLOCK: [2020-04-19 Sun 10:28]--[2020-04-19 Sun 10:53] =>  0:25
-    --- Chapter 1 ---
+    --- Chapter  1 ---
     CLOCK: [2020-04-19 Sun 10:05]--[2020-04-19 Sun 10:28] =>  0:23
     CLOCK: [2020-04-19 Sun 02:55]--[2020-04-19 Sun 03:30] =>  0:35
-    --- Prologue ---
+    ---  Prologue  ---
     CLOCK: [2020-04-17 Fri 15:22]--[2020-04-17 Sun 15:42] =>  0:20
     :END:
     - [X] Prologue: A Good Man in a Storm (20m)
@@ -155,25 +174,34 @@
     - [X] Midnight Programmer (50m)
     - [X] Flying Upside Down (50m)
     - [X] LA Machine (70m)
-    - [ ] The Wonderful Micromachines (60m)
-    - [ ] A Workshop (40m)
-    - [ ] The case of a missing NAND Gate (70m)
-    - [ ] Shorter than a Season (30m)
-    - [ ] Pinball (40m)
-    - [ ] Going to the fair (60m)
-    - [ ] The Last Crunch (60m)
-    - [ ] Canards (30m)
-    - [ ] Dinosaurs (30m)
-*** TODO Read "Extreme Programming Pocket Guide" [0/7]
+    - [X] The Wonderful Micromachines (60m)
+    - [X] A Workshop (40m)
+    - [X] The case of a missing NAND Gate (70m)
+    - [X] Shorter than a Season (30m)
+    - [X] Pinball (40m)
+    - [X] Going to the fair (60m)
+    - [X] The Last Crunch (60m)
+    - [X] Canards (30m)
+    - [X] Dinosaurs (30m)
+*** IN_PROGRESS Read "Extreme Programming Pocket Guide" [2/7]
    :PROPERTIES:
    :ESTIMATED: 6
-   :ACTUAL:
+   :ACTUAL:   1.30
    :OWNER: RJ722
    :ID: READ.1587146047
    :TASKID: READ.1587146047
    :END:
-    - [ ] Part 1 Why XP?                        (35m)
-    - [ ] Part 2: Extreme Programming Practices (90m)
+   :LOGBOOK:
+   --- Part 2 ---
+   CLOCK: [2020-04-30 Thu 02:55]--[2020-04-30 Thu 03:20] =>  0:25
+   CLOCK: [2020-04-27 Mon 02:42]--[2020-04-27 Mon 02:59] =>  0:17
+   --- Part 1 ---
+   CLOCK: [2020-04-27 Mon 02:16]--[2020-04-27 Mon 02:42] =>  0:26
+   --- Foreword + Preface ---
+   CLOCK: [2020-04-27 Mon 02:03]--[2020-04-27 Mon 02:13] =>  0:10
+   :END:
+    - [X] Part 1 Why XP?                        (35m)
+    - [X] Part 2: Extreme Programming Practices (90m)
     - [ ] Part 3: XP Events                     (40m)
     - [ ] Part 4: XP Artifacts                  (30m)
     - [ ] Part 5: Roles in Extreme Programming  (35m)
