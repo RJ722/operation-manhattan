@@ -12,13 +12,34 @@
    :ID: READ.1587227996
    :TASKID: READ.1587227996
    :END:
-   - [ ] Chapter  14 : Chunks of Bytecode     (180m)
-   - [ ] Chapter  15 : A virtual machine      (180m)
-   - [ ] Chapter  16 : Scanning on demand     (180m)
-   - [ ] Chapter  17 : Compiling expressions  (180m)
+    - [ ] Chapter  8  : Statements and state   (180m)
+    - [ ] Chapter  9  : Control flow           (180m)
+    - [ ] Chapter  10 : Functions              (180m)
+    - [ ] Chapter  11 : Resolving and binding  (180m)
+    - [ ] Chapter  12 : Classes                (180m)
+    - [ ] Chapter  13 : Inheritance            (180m)
+    - [ ] Chapter  14 : Chunks of Bytecode     (180m)
+    - [ ] Chapter  15 : A virtual machine      (180m)
+    - [ ] Chapter  16 : Scanning on demand     (180m)
+    - [ ] Chapter  17 : Compiling expressions  (180m)
  
 * PLAN
 ** May       01, 2020 - May       16, 2020 (16 days)
+*** IN_PROGRESS Read "Crafting Interpreters" [0/4]
+    :PROPERTIES:
+    :ESTIMATED: 16
+    :ACTUAL:
+    :OWNER: sourya
+    :ID: READ.1587227996
+    :TASKID: READ.1587227996
+    :END:
+    :LOGBOOK:
+    :END:
+    - [ ] Chapter  4  : Scanning               (180m)
+    - [ ] Chapter  5  : Representing code      (180m)
+    - [ ] Chapter  6  : Parsing expressions    (180m)
+    - [ ] Chapter  7  : Evaluating expressions (180m)
+
 ** May       17, 2020 - May       29, 2020 (13 days)
 ** May       30, 2020 - June      16, 2020 (17 days)
 ** June      17, 2020 - June      30, 2020 (14 days)
