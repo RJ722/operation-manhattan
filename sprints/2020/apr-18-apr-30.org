@@ -183,7 +183,8 @@
     - [X] The Last Crunch (60m)
     - [X] Canards (30m)
     - [X] Dinosaurs (30m)
-*** IN_PROGRESS Read "Extreme Programming Pocket Guide" [2/7]
+*** DEFERRED Read "Extreme Programming Pocket Guide" [2/7]
+    CLOSED: [2020-05-02 Sat 21:10]
    :PROPERTIES:
    :ESTIMATED: 6
    :ACTUAL:   1.30

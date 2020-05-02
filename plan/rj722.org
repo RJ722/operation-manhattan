@@ -4,9 +4,31 @@
 #+TAGS: READ
 
 * GOALS
-  
+** TODO Read "The Tao of Seneca"
+   https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca/
+
+
 * PLAN
 ** May       01, 2020 - May       16, 2020 (16 days)
+   :PROPERTIES:
+   :wpd-RJ722: 1
+   :END:
+*** TODO Read "Roads and Bridges"
+    :PROPERTIES:
+    :ESTIMATED: 5
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: READ.1588457399
+    :TASKID: READ.1588457399
+    :END:
+*** TODO Read "The Cuckoo's egg: Tracking a spy through the maze of computer espionage"
+    :PROPERTIES:
+    :ESTIMATED: 11
+    :ACTUAL:
+    :OWNER: RJ722
+    :ID: READ.1588457289
+    :TASKID: READ.1588457289
+    :END:
 ** May       17, 2020 - May       29, 2020 (13 days)
 ** May       30, 2020 - June      16, 2020 (17 days)
 ** June      17, 2020 - June      30, 2020 (14 days)
@@ -15,4 +37,3 @@
 ** August     3, 2020 - August    18, 2020 (16 days)
 ** August    19, 2020 - September  2, 2020 (14 days)
 
- 
