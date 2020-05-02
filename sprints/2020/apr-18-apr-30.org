@@ -94,8 +94,7 @@
   :wpd-sourya: 3
   :END:
 ** sourya
-*** DEFERRED Read "Crafting Interpreters" [0/10]
-    CLOSED: [2020-05-02 Sat 21:10]
+*** IN_PROGRESS Read "Crafting Interpreters" [0/10]
     :PROPERTIES:
     :ESTIMATED: 30
     :ACTUAL:
