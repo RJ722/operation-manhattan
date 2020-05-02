@@ -94,7 +94,7 @@
   :wpd-sourya: 3
   :END:
 ** sourya
-*** IN_PROGRESS Read "Crafting Interpreters" [0/10]
+*** DEFERRED Read "Crafting Interpreters" [0/10]
     :PROPERTIES:
     :ESTIMATED: 30
     :ACTUAL:
