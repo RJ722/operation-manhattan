@@ -44,19 +44,32 @@
     - [ ] Chapter  6  : Parsing expressions    (180m)
     - [ ] Chapter  7  : Evaluating expressions (180m)
 ** RJ722
-*** TODO Read "Roads and Bridges"
+*** IN_PROGRESS Read "Roads and Bridges"
     :PROPERTIES:
     :ESTIMATED: 5
-    :ACTUAL:
+    :ACTUAL:   1.20
     :OWNER: RJ722
     :ID: READ.1588457399
     :TASKID: READ.1588457399
     :END:
-*** TODO Read "The Cuckoo's egg: Tracking a spy through the maze of computer espionage"
+    :LOGBOOK:
+    CLOCK: [2020-05-11 Mon 19:10]--[2020-05-11 Mon 19:40] =>  0:30
+    CLOCK: [2020-05-11 Mon 01:36]--[2020-05-11 Mon 02:18] =>  0:42
+    :END:
+*** DONE Read "The Cuckoo's egg: Tracking a spy through the maze of computer espionage"
+    CLOSED: [2020-05-09 Sat 05:00]
     :PROPERTIES:
     :ESTIMATED: 11
-    :ACTUAL:
+    :ACTUAL:   9.72
     :OWNER: RJ722
     :ID: READ.1588457289
     :TASKID: READ.1588457289
+    :END:
+    :LOGBOOK:
+    CLOCK: [2020-05-09 Sat 03:09]--[2020-05-09 Sat 05:00] =>  1:51
+    CLOCK: [2020-05-08 Fri 21:00]--[2020-05-08 Fri 21:36] =>  0:36
+    CLOCK: [2020-05-08 Fri 00:55]--[2020-05-08 Fri 03:10] =>  2:15
+    CLOCK: [2020-05-06 Wed 00:20]--[2020-05-06 Wed 01:05] =>  0:45
+    CLOCK: [2020-05-06 Wed 07:19]--[2020-05-06 Wed 07:31] =>  0:12
+    CLOCK: [2020-05-06 Wed 02:16]--[2020-05-06 Wed 06:20] =>  4:04
     :END:
